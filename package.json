@@ -1,0 +1,15 @@
+{
+  "name": "cheatsheet",
+  "version": "1.0.0",
+  "description": "for refresh my memory purposes",
+  "main": "index.js",
+  "author": "Anirut Kamchai <anirut.workspace@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
